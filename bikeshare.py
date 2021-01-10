@@ -11,7 +11,7 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 months = ('january', 'february', 'march', 'april', 'may')
 
-weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday',
+weekdays = ('sunday', 'monday', 'tuesday', 'wednesday', 'thursday',
             'saturday')
 
 
